@@ -1,0 +1,29 @@
+.container{
+    margin-top: 100px;
+}
+
+.foto{
+    border-radius: 20px;
+}
+
+.aksi{
+    background-color: red;
+    padding: 8px;
+    border-radius: 5px;
+    text-decoration: none;
+    color: black;
+}
+
+.tambah{
+    background-color: rgb(139, 255, 255);
+    padding: 8px;
+    border-radius: 15px;
+    text-decoration: none;
+    color: black;
+}
+
+.user{
+    background-image: url(../foto/..ang.jpg);
+    background-color: aqua;
+    background-repeat: no-repeat;
+}
